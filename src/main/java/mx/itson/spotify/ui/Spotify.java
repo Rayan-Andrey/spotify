@@ -41,7 +41,9 @@ public class Spotify {
         album.setFechaLanzamiento(new Date());
         album.setCanciones(temas);
         album.setGenero("Pop");
-        String showcase = "showcase";
+        
+        String showcase = "showcase"; 
+        //subido al octogato
         
         
         
