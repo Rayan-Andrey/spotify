@@ -1,0 +1,25 @@
+{
+    "nombre": "SKA-PA",
+    "artista":{
+        "nombre": "Pulpo",
+        "perfil": "Viva el pueblo",
+        "oyentesMensuales": "1000000",
+        "followers": "35000000"
+    },
+    "canciones": [
+        {
+            "titulo":"Nino soldado",
+            "duracion":"200"
+        },
+        {
+            "titulo":"Vals del obrero",
+            "duracion":"350"
+
+        }
+
+    ],
+    "genero": "Punk",
+    "fechaLanzamiento": "2024-01-25"
+
+
+}
